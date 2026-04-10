@@ -3,8 +3,7 @@
 **Estudiante:** Jose Fernando Guerrero Mosquera  
 **Código:** A00365253  
 **Asignatura:** Infraestructura III  
-**Universidad:** ICESI  
-**Modalidad:** Individual  
+**Universidad:** ICESI
 **Entorno:** Clúster kubeadm sobre VirtualBox  
 **Fecha:** Abril 2026
 
